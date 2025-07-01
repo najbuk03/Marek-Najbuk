@@ -1,4 +1,4 @@
-# PDF Table Extractor
+# PDF Plan Parser MN
 
 Aplikacja w Pythonie służąca do ekstrakcji tabel z plików PDF zawierających plany zajęć lub inne dane dzielone wg dni tygodnia.
 
