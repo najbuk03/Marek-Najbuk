@@ -1,6 +1,6 @@
 # PDF Plan Parser MN
 
-Aplikacja w Pythonie służąca do ekstrakcji tabel z plików PDF zawierających plany zajęć lub inne dane dzielone wg dni tygodnia.
+Aplikacja w Pythonie służąca do ekstrakcji tabel z plików PDF zawierających plany zajęć lub inne dane dzielone wg dni tygodnia. Formatuje je do postaci tabeli w stylu shortcode (np. WordPress)
 
 ## Autor
 Imię i nazwisko: MAREK NAJBUK  
@@ -26,6 +26,7 @@ Nr albumu: 13141
 1. Umieść pliki PDF w folderze `pdf/`
 2. Uruchom aplikację:
 ```bash
+python.exe -m pip install PyPDF2
 python main.py
 ```
 3. Wyniki zostaną zapisane w folderze `output/` jako pliki `.txt`.
