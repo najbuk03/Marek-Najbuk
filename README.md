@@ -4,7 +4,7 @@ Aplikacja w Pythonie służąca do ekstrakcji tabel z plików PDF zawierających
 
 ## Autor
 Imię i nazwisko: MAREK NAJBUK  
-Nr albumu: [TWÓJ NUMER ALBUMU]
+Nr albumu: 13141
 
 ## Wymagania
 - Python 3.x
